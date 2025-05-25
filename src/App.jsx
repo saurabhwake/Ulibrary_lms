@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import UserDashboard from './pages/UserDashboard';
-import AdminDashboard from './Pages/AdminDashboard';
+import AdminDashboard from './pages/AdminDashboard';
 import BookList from './pages/BookList';
 import Profile from './pages/Profile';
 import Header from './components/Header';
